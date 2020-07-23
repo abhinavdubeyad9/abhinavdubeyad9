@@ -1,5 +1,5 @@
-<span color="black">
-<h1 align="center"> Hello, I'm Abhinav Dubey 👋 </h1>
+
+<h1 align="center"> Hello, I'm Abhinav Dubey :octocat:</h1>
 <h3 align="center">🚀 Full Stack Developer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
@@ -16,4 +16,3 @@
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavdubeyad9&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
-</span>
