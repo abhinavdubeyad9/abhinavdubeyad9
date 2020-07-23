@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="abhinavdubeyad9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavdubeyad9" alt="abhinavdubeyad9" /> </p>
 
 - 🔭 I’m currently working on TravelGram App
 - 🌱 I’m currently learning Angular & deno
