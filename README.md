@@ -12,6 +12,5 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dubey.abhinav76@gmail.com)](mailto:dubey.abhinav76@gmail.com)
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=000000)
 
-## Some Statistics About Me
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavdubeyad9&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+
 
